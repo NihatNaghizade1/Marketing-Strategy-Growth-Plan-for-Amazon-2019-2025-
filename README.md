@@ -6,6 +6,8 @@ This project is a comprehensive, executive-level strategic report that analyzes 
 
 The report integrates financial analysis, marketing KPIs, customer insights, and forward-looking strategies, all structured in a visually engaging 10-page PDF report. Data was collected from credible sources (Amazon 10-K filings, Statista, MacroTrends, eMarketer) and visualized using Python (Matplotlib) to ensure analytical depth and clarity.
 
+---
+
 🎯 Objectives
 
 Analyze Amazon’s historical revenue, income, and Prime membership growth (2019–2025)
@@ -19,6 +21,8 @@ Recommend regional expansion opportunities in emerging markets
 Propose omnichannel strategies integrating online & offline experiences
 
 Deliver an executive-ready PDF report with charts, visuals, and strategy insights
+
+---
 
 ✅ Key Areas Covered
 
@@ -34,6 +38,8 @@ Omnichannel Integration – Amazon Go, Just Walk Out, geofenced & QR promotions
 
 Recommendations – Localized Prime tiers, Amazon Live expansion, multilingual AI assistants, D2C incubation
 
+---
+
 📂 Key Deliverables
 
 ✅ 10-page executive-style PDF with branding & professional design
@@ -43,6 +49,8 @@ Recommendations – Localized Prime tiers, Amazon Live expansion, multilingual A
 ✅ Full strategy report with KPIs, SWOT, and recommendations
 
 ✅ Cover image & appendix for credibility and presentation flow
+
+---
 
 🛠️ Tools & Skills Used
 
@@ -56,6 +64,8 @@ Business Research & Insights – Consumer behavior, competitor analysis
 
 Presentation Design – Executive-level branding & formatting
 
+---
+
 🎤 Use Case
 
 This project simulates a consultancy-style presentation prepared for Amazon’s senior leadership. It demonstrates:
@@ -67,6 +77,8 @@ Data-driven decision-making
 Ability to communicate insights at C-level
 
 Practical skills in analytics, visualization, and storytelling
+
+---
 
 🔗 Project Resources
 
